@@ -1,0 +1,10 @@
+Package: power.pro
+Type: Package
+Title: Adjust variables according to power-scalling (allometric relationships)
+Version: 0.1.0
+Author: Timothy R. Koscik
+Maintainer: Timothy R. Koscik <timkoscik+pwrpro@gmail.com>
+Description: Adjust variables according to power-scalling (allometric relationships)
+License: MIT
+Encoding: UTF-8
+LazyData: true
